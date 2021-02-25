@@ -24,4 +24,4 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://github.com/mharris5381/Parstagram/blob/main/parse%20pt%201.gif' />
-<img src='https://github.com/mharris5381/Parstagram/blob/main/parse%20pt%201.gif' />
+<img src='https://github.com/mharris5381/Parstagram/blob/main/parse%20pt%202.gif' />
